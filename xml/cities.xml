@@ -1,0 +1,4011 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>
+        <id>1</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Barat</city_name>
+        <postal_code>23681</postal_code>
+    </row>
+    <row>
+        <id>2</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Barat Daya</city_name>
+        <postal_code>23764</postal_code>
+    </row>
+    <row>
+        <id>3</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Besar</city_name>
+        <postal_code>23951</postal_code>
+    </row>
+    <row>
+        <id>4</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Jaya</city_name>
+        <postal_code>23654</postal_code>
+    </row>
+    <row>
+        <id>5</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Selatan</city_name>
+        <postal_code>23719</postal_code>
+    </row>
+    <row>
+        <id>6</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Singkil</city_name>
+        <postal_code>24785</postal_code>
+    </row>
+    <row>
+        <id>7</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Tamiang</city_name>
+        <postal_code>24476</postal_code>
+    </row>
+    <row>
+        <id>8</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Tengah</city_name>
+        <postal_code>24511</postal_code>
+    </row>
+    <row>
+        <id>9</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Tenggara</city_name>
+        <postal_code>24611</postal_code>
+    </row>
+    <row>
+        <id>10</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Timur</city_name>
+        <postal_code>24454</postal_code>
+    </row>
+    <row>
+        <id>11</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Aceh Utara</city_name>
+        <postal_code>24382</postal_code>
+    </row>
+    <row>
+        <id>12</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Agam</city_name>
+        <postal_code>26411</postal_code>
+    </row>
+    <row>
+        <id>13</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Alor</city_name>
+        <postal_code>85811</postal_code>
+    </row>
+    <row>
+        <id>14</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kota</type>
+        <city_name>Ambon</city_name>
+        <postal_code>97222</postal_code>
+    </row>
+    <row>
+        <id>15</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Asahan</city_name>
+        <postal_code>21214</postal_code>
+    </row>
+    <row>
+        <id>16</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Asmat</city_name>
+        <postal_code>99777</postal_code>
+    </row>
+    <row>
+        <id>17</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Badung</city_name>
+        <postal_code>80351</postal_code>
+    </row>
+    <row>
+        <id>18</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Balangan</city_name>
+        <postal_code>71611</postal_code>
+    </row>
+    <row>
+        <id>19</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kota</type>
+        <city_name>Balikpapan</city_name>
+        <postal_code>76111</postal_code>
+    </row>
+    <row>
+        <id>20</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kota</type>
+        <city_name>Banda Aceh</city_name>
+        <postal_code>23238</postal_code>
+    </row>
+    <row>
+        <id>21</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kota</type>
+        <city_name>Bandar Lampung</city_name>
+        <postal_code>35139</postal_code>
+    </row>
+    <row>
+        <id>22</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bandung</city_name>
+        <postal_code>40311</postal_code>
+    </row>
+    <row>
+        <id>23</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Bandung</city_name>
+        <postal_code>40111</postal_code>
+    </row>
+    <row>
+        <id>24</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bandung Barat</city_name>
+        <postal_code>40721</postal_code>
+    </row>
+    <row>
+        <id>25</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banggai</city_name>
+        <postal_code>94711</postal_code>
+    </row>
+    <row>
+        <id>26</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banggai Kepulauan</city_name>
+        <postal_code>94881</postal_code>
+    </row>
+    <row>
+        <id>27</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangka</city_name>
+        <postal_code>33212</postal_code>
+    </row>
+    <row>
+        <id>28</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangka Barat</city_name>
+        <postal_code>33315</postal_code>
+    </row>
+    <row>
+        <id>29</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangka Selatan</city_name>
+        <postal_code>33719</postal_code>
+    </row>
+    <row>
+        <id>30</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangka Tengah</city_name>
+        <postal_code>33613</postal_code>
+    </row>
+    <row>
+        <id>31</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangkalan</city_name>
+        <postal_code>69118</postal_code>
+    </row>
+    <row>
+        <id>32</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bangli</city_name>
+        <postal_code>80619</postal_code>
+    </row>
+    <row>
+        <id>33</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banjar</city_name>
+        <postal_code>70619</postal_code>
+    </row>
+    <row>
+        <id>34</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Banjar</city_name>
+        <postal_code>46311</postal_code>
+    </row>
+    <row>
+        <id>35</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Banjarbaru</city_name>
+        <postal_code>70712</postal_code>
+    </row>
+    <row>
+        <id>36</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Banjarmasin</city_name>
+        <postal_code>70117</postal_code>
+    </row>
+    <row>
+        <id>37</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banjarnegara</city_name>
+        <postal_code>53419</postal_code>
+    </row>
+    <row>
+        <id>38</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bantaeng</city_name>
+        <postal_code>92411</postal_code>
+    </row>
+    <row>
+        <id>39</id>
+        <province_id>5</province_id>
+        <province_name>DI Yogyakarta</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bantul</city_name>
+        <postal_code>55715</postal_code>
+    </row>
+    <row>
+        <id>40</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banyuasin</city_name>
+        <postal_code>30911</postal_code>
+    </row>
+    <row>
+        <id>41</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banyumas</city_name>
+        <postal_code>53114</postal_code>
+    </row>
+    <row>
+        <id>42</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Banyuwangi</city_name>
+        <postal_code>68416</postal_code>
+    </row>
+    <row>
+        <id>43</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Barito Kuala</city_name>
+        <postal_code>70511</postal_code>
+    </row>
+    <row>
+        <id>44</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Barito Selatan</city_name>
+        <postal_code>73711</postal_code>
+    </row>
+    <row>
+        <id>45</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Barito Timur</city_name>
+        <postal_code>73671</postal_code>
+    </row>
+    <row>
+        <id>46</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Barito Utara</city_name>
+        <postal_code>73881</postal_code>
+    </row>
+    <row>
+        <id>47</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Barru</city_name>
+        <postal_code>90719</postal_code>
+    </row>
+    <row>
+        <id>48</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kota</type>
+        <city_name>Batam</city_name>
+        <postal_code>29413</postal_code>
+    </row>
+    <row>
+        <id>49</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Batang</city_name>
+        <postal_code>51211</postal_code>
+    </row>
+    <row>
+        <id>50</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Batang Hari</city_name>
+        <postal_code>36613</postal_code>
+    </row>
+    <row>
+        <id>51</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Batu</city_name>
+        <postal_code>65311</postal_code>
+    </row>
+    <row>
+        <id>52</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Batu Bara</city_name>
+        <postal_code>21655</postal_code>
+    </row>
+    <row>
+        <id>53</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kota</type>
+        <city_name>Bau-Bau</city_name>
+        <postal_code>93719</postal_code>
+    </row>
+    <row>
+        <id>54</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bekasi</city_name>
+        <postal_code>17837</postal_code>
+    </row>
+    <row>
+        <id>55</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Bekasi</city_name>
+        <postal_code>17121</postal_code>
+    </row>
+    <row>
+        <id>56</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Belitung</city_name>
+        <postal_code>33419</postal_code>
+    </row>
+    <row>
+        <id>57</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Belitung Timur</city_name>
+        <postal_code>33519</postal_code>
+    </row>
+    <row>
+        <id>58</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Belu</city_name>
+        <postal_code>85711</postal_code>
+    </row>
+    <row>
+        <id>59</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bener Meriah</city_name>
+        <postal_code>24581</postal_code>
+    </row>
+    <row>
+        <id>60</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bengkalis</city_name>
+        <postal_code>28719</postal_code>
+    </row>
+    <row>
+        <id>61</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bengkayang</city_name>
+        <postal_code>79213</postal_code>
+    </row>
+    <row>
+        <id>62</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kota</type>
+        <city_name>Bengkulu</city_name>
+        <postal_code>38229</postal_code>
+    </row>
+    <row>
+        <id>63</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bengkulu Selatan</city_name>
+        <postal_code>38519</postal_code>
+    </row>
+    <row>
+        <id>64</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bengkulu Tengah</city_name>
+        <postal_code>38319</postal_code>
+    </row>
+    <row>
+        <id>65</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bengkulu Utara</city_name>
+        <postal_code>38619</postal_code>
+    </row>
+    <row>
+        <id>66</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Berau</city_name>
+        <postal_code>77311</postal_code>
+    </row>
+    <row>
+        <id>67</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Biak Numfor</city_name>
+        <postal_code>98119</postal_code>
+    </row>
+    <row>
+        <id>68</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bima</city_name>
+        <postal_code>84171</postal_code>
+    </row>
+    <row>
+        <id>69</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kota</type>
+        <city_name>Bima</city_name>
+        <postal_code>84139</postal_code>
+    </row>
+    <row>
+        <id>70</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Binjai</city_name>
+        <postal_code>20712</postal_code>
+    </row>
+    <row>
+        <id>71</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bintan</city_name>
+        <postal_code>29135</postal_code>
+    </row>
+    <row>
+        <id>72</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bireuen</city_name>
+        <postal_code>24219</postal_code>
+    </row>
+    <row>
+        <id>73</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kota</type>
+        <city_name>Bitung</city_name>
+        <postal_code>95512</postal_code>
+    </row>
+    <row>
+        <id>74</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Blitar</city_name>
+        <postal_code>66171</postal_code>
+    </row>
+    <row>
+        <id>75</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Blitar</city_name>
+        <postal_code>66124</postal_code>
+    </row>
+    <row>
+        <id>76</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Blora</city_name>
+        <postal_code>58219</postal_code>
+    </row>
+    <row>
+        <id>77</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kabupaten</type>
+        <city_name>Boalemo</city_name>
+        <postal_code>96319</postal_code>
+    </row>
+    <row>
+        <id>78</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bogor</city_name>
+        <postal_code>16911</postal_code>
+    </row>
+    <row>
+        <id>79</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Bogor</city_name>
+        <postal_code>16119</postal_code>
+    </row>
+    <row>
+        <id>80</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bojonegoro</city_name>
+        <postal_code>62119</postal_code>
+    </row>
+    <row>
+        <id>81</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bolaang Mongondow (Bolmong)</city_name>
+        <postal_code>95755</postal_code>
+    </row>
+    <row>
+        <id>82</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bolaang Mongondow Selatan</city_name>
+        <postal_code>95774</postal_code>
+    </row>
+    <row>
+        <id>83</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bolaang Mongondow Timur</city_name>
+        <postal_code>95783</postal_code>
+    </row>
+    <row>
+        <id>84</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bolaang Mongondow Utara</city_name>
+        <postal_code>95765</postal_code>
+    </row>
+    <row>
+        <id>85</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bombana</city_name>
+        <postal_code>93771</postal_code>
+    </row>
+    <row>
+        <id>86</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bondowoso</city_name>
+        <postal_code>68219</postal_code>
+    </row>
+    <row>
+        <id>87</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bone</city_name>
+        <postal_code>92713</postal_code>
+    </row>
+    <row>
+        <id>88</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bone Bolango</city_name>
+        <postal_code>96511</postal_code>
+    </row>
+    <row>
+        <id>89</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kota</type>
+        <city_name>Bontang</city_name>
+        <postal_code>75313</postal_code>
+    </row>
+    <row>
+        <id>90</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Boven Digoel</city_name>
+        <postal_code>99662</postal_code>
+    </row>
+    <row>
+        <id>91</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Boyolali</city_name>
+        <postal_code>57312</postal_code>
+    </row>
+    <row>
+        <id>92</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Brebes</city_name>
+        <postal_code>52212</postal_code>
+    </row>
+    <row>
+        <id>93</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Bukittinggi</city_name>
+        <postal_code>26115</postal_code>
+    </row>
+    <row>
+        <id>94</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buleleng</city_name>
+        <postal_code>81111</postal_code>
+    </row>
+    <row>
+        <id>95</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bulukumba</city_name>
+        <postal_code>92511</postal_code>
+    </row>
+    <row>
+        <id>96</id>
+        <province_id>16</province_id>
+        <province_name>Kalimantan Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bulungan (Bulongan)</city_name>
+        <postal_code>77211</postal_code>
+    </row>
+    <row>
+        <id>97</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Bungo</city_name>
+        <postal_code>37216</postal_code>
+    </row>
+    <row>
+        <id>98</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buol</city_name>
+        <postal_code>94564</postal_code>
+    </row>
+    <row>
+        <id>99</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buru</city_name>
+        <postal_code>97371</postal_code>
+    </row>
+    <row>
+        <id>100</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buru Selatan</city_name>
+        <postal_code>97351</postal_code>
+    </row>
+    <row>
+        <id>101</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buton</city_name>
+        <postal_code>93754</postal_code>
+    </row>
+    <row>
+        <id>102</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Buton Utara</city_name>
+        <postal_code>93745</postal_code>
+    </row>
+    <row>
+        <id>103</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ciamis</city_name>
+        <postal_code>46211</postal_code>
+    </row>
+    <row>
+        <id>104</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Cianjur</city_name>
+        <postal_code>43217</postal_code>
+    </row>
+    <row>
+        <id>105</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Cilacap</city_name>
+        <postal_code>53211</postal_code>
+    </row>
+    <row>
+        <id>106</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kota</type>
+        <city_name>Cilegon</city_name>
+        <postal_code>42417</postal_code>
+    </row>
+    <row>
+        <id>107</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Cimahi</city_name>
+        <postal_code>40512</postal_code>
+    </row>
+    <row>
+        <id>108</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Cirebon</city_name>
+        <postal_code>45611</postal_code>
+    </row>
+    <row>
+        <id>109</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Cirebon</city_name>
+        <postal_code>45116</postal_code>
+    </row>
+    <row>
+        <id>110</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Dairi</city_name>
+        <postal_code>22211</postal_code>
+    </row>
+    <row>
+        <id>111</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Deiyai (Deliyai)</city_name>
+        <postal_code>98784</postal_code>
+    </row>
+    <row>
+        <id>112</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Deli Serdang</city_name>
+        <postal_code>20511</postal_code>
+    </row>
+    <row>
+        <id>113</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Demak</city_name>
+        <postal_code>59519</postal_code>
+    </row>
+    <row>
+        <id>114</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kota</type>
+        <city_name>Denpasar</city_name>
+        <postal_code>80227</postal_code>
+    </row>
+    <row>
+        <id>115</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Depok</city_name>
+        <postal_code>16416</postal_code>
+    </row>
+    <row>
+        <id>116</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Dharmasraya</city_name>
+        <postal_code>27612</postal_code>
+    </row>
+    <row>
+        <id>117</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Dogiyai</city_name>
+        <postal_code>98866</postal_code>
+    </row>
+    <row>
+        <id>118</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Dompu</city_name>
+        <postal_code>84217</postal_code>
+    </row>
+    <row>
+        <id>119</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Donggala</city_name>
+        <postal_code>94341</postal_code>
+    </row>
+    <row>
+        <id>120</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kota</type>
+        <city_name>Dumai</city_name>
+        <postal_code>28811</postal_code>
+    </row>
+    <row>
+        <id>121</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Empat Lawang</city_name>
+        <postal_code>31811</postal_code>
+    </row>
+    <row>
+        <id>122</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ende</city_name>
+        <postal_code>86351</postal_code>
+    </row>
+    <row>
+        <id>123</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Enrekang</city_name>
+        <postal_code>91719</postal_code>
+    </row>
+    <row>
+        <id>124</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Fakfak</city_name>
+        <postal_code>98651</postal_code>
+    </row>
+    <row>
+        <id>125</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Flores Timur</city_name>
+        <postal_code>86213</postal_code>
+    </row>
+    <row>
+        <id>126</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Garut</city_name>
+        <postal_code>44126</postal_code>
+    </row>
+    <row>
+        <id>127</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gayo Lues</city_name>
+        <postal_code>24653</postal_code>
+    </row>
+    <row>
+        <id>128</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gianyar</city_name>
+        <postal_code>80519</postal_code>
+    </row>
+    <row>
+        <id>129</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gorontalo</city_name>
+        <postal_code>96218</postal_code>
+    </row>
+    <row>
+        <id>130</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kota</type>
+        <city_name>Gorontalo</city_name>
+        <postal_code>96115</postal_code>
+    </row>
+    <row>
+        <id>131</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gorontalo Utara</city_name>
+        <postal_code>96611</postal_code>
+    </row>
+    <row>
+        <id>132</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gowa</city_name>
+        <postal_code>92111</postal_code>
+    </row>
+    <row>
+        <id>133</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gresik</city_name>
+        <postal_code>61115</postal_code>
+    </row>
+    <row>
+        <id>134</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Grobogan</city_name>
+        <postal_code>58111</postal_code>
+    </row>
+    <row>
+        <id>135</id>
+        <province_id>5</province_id>
+        <province_name>DI Yogyakarta</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gunung Kidul</city_name>
+        <postal_code>55812</postal_code>
+    </row>
+    <row>
+        <id>136</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Gunung Mas</city_name>
+        <postal_code>74511</postal_code>
+    </row>
+    <row>
+        <id>137</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Gunungsitoli</city_name>
+        <postal_code>22813</postal_code>
+    </row>
+    <row>
+        <id>138</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Halmahera Barat</city_name>
+        <postal_code>97757</postal_code>
+    </row>
+    <row>
+        <id>139</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Halmahera Selatan</city_name>
+        <postal_code>97911</postal_code>
+    </row>
+    <row>
+        <id>140</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Halmahera Tengah</city_name>
+        <postal_code>97853</postal_code>
+    </row>
+    <row>
+        <id>141</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Halmahera Timur</city_name>
+        <postal_code>97862</postal_code>
+    </row>
+    <row>
+        <id>142</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Halmahera Utara</city_name>
+        <postal_code>97762</postal_code>
+    </row>
+    <row>
+        <id>143</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Hulu Sungai Selatan</city_name>
+        <postal_code>71212</postal_code>
+    </row>
+    <row>
+        <id>144</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Hulu Sungai Tengah</city_name>
+        <postal_code>71313</postal_code>
+    </row>
+    <row>
+        <id>145</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Hulu Sungai Utara</city_name>
+        <postal_code>71419</postal_code>
+    </row>
+    <row>
+        <id>146</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Humbang Hasundutan</city_name>
+        <postal_code>22457</postal_code>
+    </row>
+    <row>
+        <id>147</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Indragiri Hilir</city_name>
+        <postal_code>29212</postal_code>
+    </row>
+    <row>
+        <id>148</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Indragiri Hulu</city_name>
+        <postal_code>29319</postal_code>
+    </row>
+    <row>
+        <id>149</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Indramayu</city_name>
+        <postal_code>45214</postal_code>
+    </row>
+    <row>
+        <id>150</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Intan Jaya</city_name>
+        <postal_code>98771</postal_code>
+    </row>
+    <row>
+        <id>151</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kota</type>
+        <city_name>Jakarta Barat</city_name>
+        <postal_code>11220</postal_code>
+    </row>
+    <row>
+        <id>152</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kota</type>
+        <city_name>Jakarta Pusat</city_name>
+        <postal_code>10540</postal_code>
+    </row>
+    <row>
+        <id>153</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kota</type>
+        <city_name>Jakarta Selatan</city_name>
+        <postal_code>12230</postal_code>
+    </row>
+    <row>
+        <id>154</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kota</type>
+        <city_name>Jakarta Timur</city_name>
+        <postal_code>13330</postal_code>
+    </row>
+    <row>
+        <id>155</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kota</type>
+        <city_name>Jakarta Utara</city_name>
+        <postal_code>14140</postal_code>
+    </row>
+    <row>
+        <id>156</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kota</type>
+        <city_name>Jambi</city_name>
+        <postal_code>36111</postal_code>
+    </row>
+    <row>
+        <id>157</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jayapura</city_name>
+        <postal_code>99352</postal_code>
+    </row>
+    <row>
+        <id>158</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kota</type>
+        <city_name>Jayapura</city_name>
+        <postal_code>99114</postal_code>
+    </row>
+    <row>
+        <id>159</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jayawijaya</city_name>
+        <postal_code>99511</postal_code>
+    </row>
+    <row>
+        <id>160</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jember</city_name>
+        <postal_code>68113</postal_code>
+    </row>
+    <row>
+        <id>161</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jembrana</city_name>
+        <postal_code>82251</postal_code>
+    </row>
+    <row>
+        <id>162</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jeneponto</city_name>
+        <postal_code>92319</postal_code>
+    </row>
+    <row>
+        <id>163</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jepara</city_name>
+        <postal_code>59419</postal_code>
+    </row>
+    <row>
+        <id>164</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Jombang</city_name>
+        <postal_code>61415</postal_code>
+    </row>
+    <row>
+        <id>165</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kaimana</city_name>
+        <postal_code>98671</postal_code>
+    </row>
+    <row>
+        <id>166</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kampar</city_name>
+        <postal_code>28411</postal_code>
+    </row>
+    <row>
+        <id>167</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kapuas</city_name>
+        <postal_code>73583</postal_code>
+    </row>
+    <row>
+        <id>168</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kapuas Hulu</city_name>
+        <postal_code>78719</postal_code>
+    </row>
+    <row>
+        <id>169</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Karanganyar</city_name>
+        <postal_code>57718</postal_code>
+    </row>
+    <row>
+        <id>170</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Karangasem</city_name>
+        <postal_code>80819</postal_code>
+    </row>
+    <row>
+        <id>171</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Karawang</city_name>
+        <postal_code>41311</postal_code>
+    </row>
+    <row>
+        <id>172</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Karimun</city_name>
+        <postal_code>29611</postal_code>
+    </row>
+    <row>
+        <id>173</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Karo</city_name>
+        <postal_code>22119</postal_code>
+    </row>
+    <row>
+        <id>174</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Katingan</city_name>
+        <postal_code>74411</postal_code>
+    </row>
+    <row>
+        <id>175</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kaur</city_name>
+        <postal_code>38911</postal_code>
+    </row>
+    <row>
+        <id>176</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kayong Utara</city_name>
+        <postal_code>78852</postal_code>
+    </row>
+    <row>
+        <id>177</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kebumen</city_name>
+        <postal_code>54319</postal_code>
+    </row>
+    <row>
+        <id>178</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kediri</city_name>
+        <postal_code>64184</postal_code>
+    </row>
+    <row>
+        <id>179</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Kediri</city_name>
+        <postal_code>64125</postal_code>
+    </row>
+    <row>
+        <id>180</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Keerom</city_name>
+        <postal_code>99461</postal_code>
+    </row>
+    <row>
+        <id>181</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kendal</city_name>
+        <postal_code>51314</postal_code>
+    </row>
+    <row>
+        <id>182</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kota</type>
+        <city_name>Kendari</city_name>
+        <postal_code>93126</postal_code>
+    </row>
+    <row>
+        <id>183</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepahiang</city_name>
+        <postal_code>39319</postal_code>
+    </row>
+    <row>
+        <id>184</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Anambas</city_name>
+        <postal_code>29991</postal_code>
+    </row>
+    <row>
+        <id>185</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Aru</city_name>
+        <postal_code>97681</postal_code>
+    </row>
+    <row>
+        <id>186</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Mentawai</city_name>
+        <postal_code>25771</postal_code>
+    </row>
+    <row>
+        <id>187</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Meranti</city_name>
+        <postal_code>28791</postal_code>
+    </row>
+    <row>
+        <id>188</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Sangihe</city_name>
+        <postal_code>95819</postal_code>
+    </row>
+    <row>
+        <id>189</id>
+        <province_id>6</province_id>
+        <province_name>DKI Jakarta</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Seribu</city_name>
+        <postal_code>14550</postal_code>
+    </row>
+    <row>
+        <id>190</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Siau Tagulandang Biaro (Sitaro)</city_name>
+        <postal_code>95862</postal_code>
+    </row>
+    <row>
+        <id>191</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Sula</city_name>
+        <postal_code>97995</postal_code>
+    </row>
+    <row>
+        <id>192</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Talaud</city_name>
+        <postal_code>95885</postal_code>
+    </row>
+    <row>
+        <id>193</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kepulauan Yapen (Yapen Waropen)</city_name>
+        <postal_code>98211</postal_code>
+    </row>
+    <row>
+        <id>194</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kerinci</city_name>
+        <postal_code>37167</postal_code>
+    </row>
+    <row>
+        <id>195</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ketapang</city_name>
+        <postal_code>78874</postal_code>
+    </row>
+    <row>
+        <id>196</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Klaten</city_name>
+        <postal_code>57411</postal_code>
+    </row>
+    <row>
+        <id>197</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Klungkung</city_name>
+        <postal_code>80719</postal_code>
+    </row>
+    <row>
+        <id>198</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kolaka</city_name>
+        <postal_code>93511</postal_code>
+    </row>
+    <row>
+        <id>199</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kolaka Utara</city_name>
+        <postal_code>93911</postal_code>
+    </row>
+    <row>
+        <id>200</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Konawe</city_name>
+        <postal_code>93411</postal_code>
+    </row>
+    <row>
+        <id>201</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Konawe Selatan</city_name>
+        <postal_code>93811</postal_code>
+    </row>
+    <row>
+        <id>202</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Konawe Utara</city_name>
+        <postal_code>93311</postal_code>
+    </row>
+    <row>
+        <id>203</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kotabaru</city_name>
+        <postal_code>72119</postal_code>
+    </row>
+    <row>
+        <id>204</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kota</type>
+        <city_name>Kotamobagu</city_name>
+        <postal_code>95711</postal_code>
+    </row>
+    <row>
+        <id>205</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kotawaringin Barat</city_name>
+        <postal_code>74119</postal_code>
+    </row>
+    <row>
+        <id>206</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kotawaringin Timur</city_name>
+        <postal_code>74364</postal_code>
+    </row>
+    <row>
+        <id>207</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kuantan Singingi</city_name>
+        <postal_code>29519</postal_code>
+    </row>
+    <row>
+        <id>208</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kubu Raya</city_name>
+        <postal_code>78311</postal_code>
+    </row>
+    <row>
+        <id>209</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kudus</city_name>
+        <postal_code>59311</postal_code>
+    </row>
+    <row>
+        <id>210</id>
+        <province_id>5</province_id>
+        <province_name>DI Yogyakarta</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kulon Progo</city_name>
+        <postal_code>55611</postal_code>
+    </row>
+    <row>
+        <id>211</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kuningan</city_name>
+        <postal_code>45511</postal_code>
+    </row>
+    <row>
+        <id>212</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kupang</city_name>
+        <postal_code>85362</postal_code>
+    </row>
+    <row>
+        <id>213</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kota</type>
+        <city_name>Kupang</city_name>
+        <postal_code>85119</postal_code>
+    </row>
+    <row>
+        <id>214</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kutai Barat</city_name>
+        <postal_code>75711</postal_code>
+    </row>
+    <row>
+        <id>215</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kutai Kartanegara</city_name>
+        <postal_code>75511</postal_code>
+    </row>
+    <row>
+        <id>216</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Kutai Timur</city_name>
+        <postal_code>75611</postal_code>
+    </row>
+    <row>
+        <id>217</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Labuhan Batu</city_name>
+        <postal_code>21412</postal_code>
+    </row>
+    <row>
+        <id>218</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Labuhan Batu Selatan</city_name>
+        <postal_code>21511</postal_code>
+    </row>
+    <row>
+        <id>219</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Labuhan Batu Utara</city_name>
+        <postal_code>21711</postal_code>
+    </row>
+    <row>
+        <id>220</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lahat</city_name>
+        <postal_code>31419</postal_code>
+    </row>
+    <row>
+        <id>221</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lamandau</city_name>
+        <postal_code>74611</postal_code>
+    </row>
+    <row>
+        <id>222</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lamongan</city_name>
+        <postal_code>64125</postal_code>
+    </row>
+    <row>
+        <id>223</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lampung Barat</city_name>
+        <postal_code>34814</postal_code>
+    </row>
+    <row>
+        <id>224</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lampung Selatan</city_name>
+        <postal_code>35511</postal_code>
+    </row>
+    <row>
+        <id>225</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lampung Tengah</city_name>
+        <postal_code>34212</postal_code>
+    </row>
+    <row>
+        <id>226</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lampung Timur</city_name>
+        <postal_code>34319</postal_code>
+    </row>
+    <row>
+        <id>227</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lampung Utara</city_name>
+        <postal_code>34516</postal_code>
+    </row>
+    <row>
+        <id>228</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Landak</city_name>
+        <postal_code>78319</postal_code>
+    </row>
+    <row>
+        <id>229</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Langkat</city_name>
+        <postal_code>20811</postal_code>
+    </row>
+    <row>
+        <id>230</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kota</type>
+        <city_name>Langsa</city_name>
+        <postal_code>24412</postal_code>
+    </row>
+    <row>
+        <id>231</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lanny Jaya</city_name>
+        <postal_code>99531</postal_code>
+    </row>
+    <row>
+        <id>232</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lebak</city_name>
+        <postal_code>42319</postal_code>
+    </row>
+    <row>
+        <id>233</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lebong</city_name>
+        <postal_code>39264</postal_code>
+    </row>
+    <row>
+        <id>234</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lembata</city_name>
+        <postal_code>86611</postal_code>
+    </row>
+    <row>
+        <id>235</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kota</type>
+        <city_name>Lhokseumawe</city_name>
+        <postal_code>24352</postal_code>
+    </row>
+    <row>
+        <id>236</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lima Puluh Koto/Kota</city_name>
+        <postal_code>26671</postal_code>
+    </row>
+    <row>
+        <id>237</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lingga</city_name>
+        <postal_code>29811</postal_code>
+    </row>
+    <row>
+        <id>238</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lombok Barat</city_name>
+        <postal_code>83311</postal_code>
+    </row>
+    <row>
+        <id>239</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lombok Tengah</city_name>
+        <postal_code>83511</postal_code>
+    </row>
+    <row>
+        <id>240</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lombok Timur</city_name>
+        <postal_code>83612</postal_code>
+    </row>
+    <row>
+        <id>241</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lombok Utara</city_name>
+        <postal_code>83711</postal_code>
+    </row>
+    <row>
+        <id>242</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Lubuk Linggau</city_name>
+        <postal_code>31614</postal_code>
+    </row>
+    <row>
+        <id>243</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Lumajang</city_name>
+        <postal_code>67319</postal_code>
+    </row>
+    <row>
+        <id>244</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Luwu</city_name>
+        <postal_code>91994</postal_code>
+    </row>
+    <row>
+        <id>245</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Luwu Timur</city_name>
+        <postal_code>92981</postal_code>
+    </row>
+    <row>
+        <id>246</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Luwu Utara</city_name>
+        <postal_code>92911</postal_code>
+    </row>
+    <row>
+        <id>247</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Madiun</city_name>
+        <postal_code>63153</postal_code>
+    </row>
+    <row>
+        <id>248</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Madiun</city_name>
+        <postal_code>63122</postal_code>
+    </row>
+    <row>
+        <id>249</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Magelang</city_name>
+        <postal_code>56519</postal_code>
+    </row>
+    <row>
+        <id>250</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Magelang</city_name>
+        <postal_code>56133</postal_code>
+    </row>
+    <row>
+        <id>251</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Magetan</city_name>
+        <postal_code>63314</postal_code>
+    </row>
+    <row>
+        <id>252</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Majalengka</city_name>
+        <postal_code>45412</postal_code>
+    </row>
+    <row>
+        <id>253</id>
+        <province_id>27</province_id>
+        <province_name>Sulawesi Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Majene</city_name>
+        <postal_code>91411</postal_code>
+    </row>
+    <row>
+        <id>254</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Makassar</city_name>
+        <postal_code>90111</postal_code>
+    </row>
+    <row>
+        <id>255</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Malang</city_name>
+        <postal_code>65163</postal_code>
+    </row>
+    <row>
+        <id>256</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Malang</city_name>
+        <postal_code>65112</postal_code>
+    </row>
+    <row>
+        <id>257</id>
+        <province_id>16</province_id>
+        <province_name>Kalimantan Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Malinau</city_name>
+        <postal_code>77511</postal_code>
+    </row>
+    <row>
+        <id>258</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maluku Barat Daya</city_name>
+        <postal_code>97451</postal_code>
+    </row>
+    <row>
+        <id>259</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maluku Tengah</city_name>
+        <postal_code>97513</postal_code>
+    </row>
+    <row>
+        <id>260</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maluku Tenggara</city_name>
+        <postal_code>97651</postal_code>
+    </row>
+    <row>
+        <id>261</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maluku Tenggara Barat</city_name>
+        <postal_code>97465</postal_code>
+    </row>
+    <row>
+        <id>262</id>
+        <province_id>27</province_id>
+        <province_name>Sulawesi Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mamasa</city_name>
+        <postal_code>91362</postal_code>
+    </row>
+    <row>
+        <id>263</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mamberamo Raya</city_name>
+        <postal_code>99381</postal_code>
+    </row>
+    <row>
+        <id>264</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mamberamo Tengah</city_name>
+        <postal_code>99553</postal_code>
+    </row>
+    <row>
+        <id>265</id>
+        <province_id>27</province_id>
+        <province_name>Sulawesi Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mamuju</city_name>
+        <postal_code>91519</postal_code>
+    </row>
+    <row>
+        <id>266</id>
+        <province_id>27</province_id>
+        <province_name>Sulawesi Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mamuju Utara</city_name>
+        <postal_code>91571</postal_code>
+    </row>
+    <row>
+        <id>267</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kota</type>
+        <city_name>Manado</city_name>
+        <postal_code>95247</postal_code>
+    </row>
+    <row>
+        <id>268</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mandailing Natal</city_name>
+        <postal_code>22916</postal_code>
+    </row>
+    <row>
+        <id>269</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Manggarai</city_name>
+        <postal_code>86551</postal_code>
+    </row>
+    <row>
+        <id>270</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Manggarai Barat</city_name>
+        <postal_code>86711</postal_code>
+    </row>
+    <row>
+        <id>271</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Manggarai Timur</city_name>
+        <postal_code>86811</postal_code>
+    </row>
+    <row>
+        <id>272</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Manokwari</city_name>
+        <postal_code>98311</postal_code>
+    </row>
+    <row>
+        <id>273</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Manokwari Selatan</city_name>
+        <postal_code>98355</postal_code>
+    </row>
+    <row>
+        <id>274</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mappi</city_name>
+        <postal_code>99853</postal_code>
+    </row>
+    <row>
+        <id>275</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maros</city_name>
+        <postal_code>90511</postal_code>
+    </row>
+    <row>
+        <id>276</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kota</type>
+        <city_name>Mataram</city_name>
+        <postal_code>83131</postal_code>
+    </row>
+    <row>
+        <id>277</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Maybrat</city_name>
+        <postal_code>98051</postal_code>
+    </row>
+    <row>
+        <id>278</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Medan</city_name>
+        <postal_code>20228</postal_code>
+    </row>
+    <row>
+        <id>279</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Melawi</city_name>
+        <postal_code>78619</postal_code>
+    </row>
+    <row>
+        <id>280</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Merangin</city_name>
+        <postal_code>37319</postal_code>
+    </row>
+    <row>
+        <id>281</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Merauke</city_name>
+        <postal_code>99613</postal_code>
+    </row>
+    <row>
+        <id>282</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mesuji</city_name>
+        <postal_code>34911</postal_code>
+    </row>
+    <row>
+        <id>283</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kota</type>
+        <city_name>Metro</city_name>
+        <postal_code>34111</postal_code>
+    </row>
+    <row>
+        <id>284</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mimika</city_name>
+        <postal_code>99962</postal_code>
+    </row>
+    <row>
+        <id>285</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Minahasa</city_name>
+        <postal_code>95614</postal_code>
+    </row>
+    <row>
+        <id>286</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Minahasa Selatan</city_name>
+        <postal_code>95914</postal_code>
+    </row>
+    <row>
+        <id>287</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Minahasa Tenggara</city_name>
+        <postal_code>95995</postal_code>
+    </row>
+    <row>
+        <id>288</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Minahasa Utara</city_name>
+        <postal_code>95316</postal_code>
+    </row>
+    <row>
+        <id>289</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Mojokerto</city_name>
+        <postal_code>61382</postal_code>
+    </row>
+    <row>
+        <id>290</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Mojokerto</city_name>
+        <postal_code>61316</postal_code>
+    </row>
+    <row>
+        <id>291</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Morowali</city_name>
+        <postal_code>94911</postal_code>
+    </row>
+    <row>
+        <id>292</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Muara Enim</city_name>
+        <postal_code>31315</postal_code>
+    </row>
+    <row>
+        <id>293</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Muaro Jambi</city_name>
+        <postal_code>36311</postal_code>
+    </row>
+    <row>
+        <id>294</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Muko Muko</city_name>
+        <postal_code>38715</postal_code>
+    </row>
+    <row>
+        <id>295</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Muna</city_name>
+        <postal_code>93611</postal_code>
+    </row>
+    <row>
+        <id>296</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Murung Raya</city_name>
+        <postal_code>73911</postal_code>
+    </row>
+    <row>
+        <id>297</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Musi Banyuasin</city_name>
+        <postal_code>30719</postal_code>
+    </row>
+    <row>
+        <id>298</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Musi Rawas</city_name>
+        <postal_code>31661</postal_code>
+    </row>
+    <row>
+        <id>299</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nabire</city_name>
+        <postal_code>98816</postal_code>
+    </row>
+    <row>
+        <id>300</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nagan Raya</city_name>
+        <postal_code>23674</postal_code>
+    </row>
+    <row>
+        <id>301</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nagekeo</city_name>
+        <postal_code>86911</postal_code>
+    </row>
+    <row>
+        <id>302</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Natuna</city_name>
+        <postal_code>29711</postal_code>
+    </row>
+    <row>
+        <id>303</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nduga</city_name>
+        <postal_code>99541</postal_code>
+    </row>
+    <row>
+        <id>304</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ngada</city_name>
+        <postal_code>86413</postal_code>
+    </row>
+    <row>
+        <id>305</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nganjuk</city_name>
+        <postal_code>64414</postal_code>
+    </row>
+    <row>
+        <id>306</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ngawi</city_name>
+        <postal_code>63219</postal_code>
+    </row>
+    <row>
+        <id>307</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nias</city_name>
+        <postal_code>22876</postal_code>
+    </row>
+    <row>
+        <id>308</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nias Barat</city_name>
+        <postal_code>22895</postal_code>
+    </row>
+    <row>
+        <id>309</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nias Selatan</city_name>
+        <postal_code>22865</postal_code>
+    </row>
+    <row>
+        <id>310</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nias Utara</city_name>
+        <postal_code>22856</postal_code>
+    </row>
+    <row>
+        <id>311</id>
+        <province_id>16</province_id>
+        <province_name>Kalimantan Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Nunukan</city_name>
+        <postal_code>77421</postal_code>
+    </row>
+    <row>
+        <id>312</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ogan Ilir</city_name>
+        <postal_code>30811</postal_code>
+    </row>
+    <row>
+        <id>313</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ogan Komering Ilir</city_name>
+        <postal_code>30618</postal_code>
+    </row>
+    <row>
+        <id>314</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ogan Komering Ulu</city_name>
+        <postal_code>32112</postal_code>
+    </row>
+    <row>
+        <id>315</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ogan Komering Ulu Selatan</city_name>
+        <postal_code>32211</postal_code>
+    </row>
+    <row>
+        <id>316</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ogan Komering Ulu Timur</city_name>
+        <postal_code>32312</postal_code>
+    </row>
+    <row>
+        <id>317</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pacitan</city_name>
+        <postal_code>63512</postal_code>
+    </row>
+    <row>
+        <id>318</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Padang</city_name>
+        <postal_code>25112</postal_code>
+    </row>
+    <row>
+        <id>319</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Padang Lawas</city_name>
+        <postal_code>22763</postal_code>
+    </row>
+    <row>
+        <id>320</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Padang Lawas Utara</city_name>
+        <postal_code>22753</postal_code>
+    </row>
+    <row>
+        <id>321</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Padang Panjang</city_name>
+        <postal_code>27122</postal_code>
+    </row>
+    <row>
+        <id>322</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Padang Pariaman</city_name>
+        <postal_code>25583</postal_code>
+    </row>
+    <row>
+        <id>323</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Padang Sidempuan</city_name>
+        <postal_code>22727</postal_code>
+    </row>
+    <row>
+        <id>324</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Pagar Alam</city_name>
+        <postal_code>31512</postal_code>
+    </row>
+    <row>
+        <id>325</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pakpak Bharat</city_name>
+        <postal_code>22272</postal_code>
+    </row>
+    <row>
+        <id>326</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Palangka Raya</city_name>
+        <postal_code>73112</postal_code>
+    </row>
+    <row>
+        <id>327</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Palembang</city_name>
+        <postal_code>30111</postal_code>
+    </row>
+    <row>
+        <id>328</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Palopo</city_name>
+        <postal_code>91911</postal_code>
+    </row>
+    <row>
+        <id>329</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Palu</city_name>
+        <postal_code>94111</postal_code>
+    </row>
+    <row>
+        <id>330</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pamekasan</city_name>
+        <postal_code>69319</postal_code>
+    </row>
+    <row>
+        <id>331</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pandeglang</city_name>
+        <postal_code>42212</postal_code>
+    </row>
+    <row>
+        <id>332</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pangandaran</city_name>
+        <postal_code>46511</postal_code>
+    </row>
+    <row>
+        <id>333</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pangkajene Kepulauan</city_name>
+        <postal_code>90611</postal_code>
+    </row>
+    <row>
+        <id>334</id>
+        <province_id>2</province_id>
+        <province_name>Bangka Belitung</province_name>
+        <type>Kota</type>
+        <city_name>Pangkal Pinang</city_name>
+        <postal_code>33115</postal_code>
+    </row>
+    <row>
+        <id>335</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Paniai</city_name>
+        <postal_code>98765</postal_code>
+    </row>
+    <row>
+        <id>336</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Parepare</city_name>
+        <postal_code>91123</postal_code>
+    </row>
+    <row>
+        <id>337</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Pariaman</city_name>
+        <postal_code>25511</postal_code>
+    </row>
+    <row>
+        <id>338</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Parigi Moutong</city_name>
+        <postal_code>94411</postal_code>
+    </row>
+    <row>
+        <id>339</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pasaman</city_name>
+        <postal_code>26318</postal_code>
+    </row>
+    <row>
+        <id>340</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pasaman Barat</city_name>
+        <postal_code>26511</postal_code>
+    </row>
+    <row>
+        <id>341</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Paser</city_name>
+        <postal_code>76211</postal_code>
+    </row>
+    <row>
+        <id>342</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pasuruan</city_name>
+        <postal_code>67153</postal_code>
+    </row>
+    <row>
+        <id>343</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Pasuruan</city_name>
+        <postal_code>67118</postal_code>
+    </row>
+    <row>
+        <id>344</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pati</city_name>
+        <postal_code>59114</postal_code>
+    </row>
+    <row>
+        <id>345</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Payakumbuh</city_name>
+        <postal_code>26213</postal_code>
+    </row>
+    <row>
+        <id>346</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pegunungan Arfak</city_name>
+        <postal_code>98354</postal_code>
+    </row>
+    <row>
+        <id>347</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pegunungan Bintang</city_name>
+        <postal_code>99573</postal_code>
+    </row>
+    <row>
+        <id>348</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pekalongan</city_name>
+        <postal_code>51161</postal_code>
+    </row>
+    <row>
+        <id>349</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Pekalongan</city_name>
+        <postal_code>51122</postal_code>
+    </row>
+    <row>
+        <id>350</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kota</type>
+        <city_name>Pekanbaru</city_name>
+        <postal_code>28112</postal_code>
+    </row>
+    <row>
+        <id>351</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pelalawan</city_name>
+        <postal_code>28311</postal_code>
+    </row>
+    <row>
+        <id>352</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pemalang</city_name>
+        <postal_code>52319</postal_code>
+    </row>
+    <row>
+        <id>353</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Pematang Siantar</city_name>
+        <postal_code>21126</postal_code>
+    </row>
+    <row>
+        <id>354</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Penajam Paser Utara</city_name>
+        <postal_code>76311</postal_code>
+    </row>
+    <row>
+        <id>355</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pesawaran</city_name>
+        <postal_code>35312</postal_code>
+    </row>
+    <row>
+        <id>356</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pesisir Barat</city_name>
+        <postal_code>35974</postal_code>
+    </row>
+    <row>
+        <id>357</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pesisir Selatan</city_name>
+        <postal_code>25611</postal_code>
+    </row>
+    <row>
+        <id>358</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pidie</city_name>
+        <postal_code>24116</postal_code>
+    </row>
+    <row>
+        <id>359</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pidie Jaya</city_name>
+        <postal_code>24186</postal_code>
+    </row>
+    <row>
+        <id>360</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pinrang</city_name>
+        <postal_code>91251</postal_code>
+    </row>
+    <row>
+        <id>361</id>
+        <province_id>7</province_id>
+        <province_name>Gorontalo</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pohuwato</city_name>
+        <postal_code>96419</postal_code>
+    </row>
+    <row>
+        <id>362</id>
+        <province_id>27</province_id>
+        <province_name>Sulawesi Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Polewali Mandar</city_name>
+        <postal_code>91311</postal_code>
+    </row>
+    <row>
+        <id>363</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Ponorogo</city_name>
+        <postal_code>63411</postal_code>
+    </row>
+    <row>
+        <id>364</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pontianak</city_name>
+        <postal_code>78971</postal_code>
+    </row>
+    <row>
+        <id>365</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kota</type>
+        <city_name>Pontianak</city_name>
+        <postal_code>78112</postal_code>
+    </row>
+    <row>
+        <id>366</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Poso</city_name>
+        <postal_code>94615</postal_code>
+    </row>
+    <row>
+        <id>367</id>
+        <province_id>33</province_id>
+        <province_name>Sumatera Selatan</province_name>
+        <type>Kota</type>
+        <city_name>Prabumulih</city_name>
+        <postal_code>31121</postal_code>
+    </row>
+    <row>
+        <id>368</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pringsewu</city_name>
+        <postal_code>35719</postal_code>
+    </row>
+    <row>
+        <id>369</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Probolinggo</city_name>
+        <postal_code>67282</postal_code>
+    </row>
+    <row>
+        <id>370</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Probolinggo</city_name>
+        <postal_code>67215</postal_code>
+    </row>
+    <row>
+        <id>371</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pulang Pisau</city_name>
+        <postal_code>74811</postal_code>
+    </row>
+    <row>
+        <id>372</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Pulau Morotai</city_name>
+        <postal_code>97771</postal_code>
+    </row>
+    <row>
+        <id>373</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Puncak</city_name>
+        <postal_code>98981</postal_code>
+    </row>
+    <row>
+        <id>374</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Puncak Jaya</city_name>
+        <postal_code>98979</postal_code>
+    </row>
+    <row>
+        <id>375</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Purbalingga</city_name>
+        <postal_code>53312</postal_code>
+    </row>
+    <row>
+        <id>376</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Purwakarta</city_name>
+        <postal_code>41119</postal_code>
+    </row>
+    <row>
+        <id>377</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Purworejo</city_name>
+        <postal_code>54111</postal_code>
+    </row>
+    <row>
+        <id>378</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Raja Ampat</city_name>
+        <postal_code>98489</postal_code>
+    </row>
+    <row>
+        <id>379</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Rejang Lebong</city_name>
+        <postal_code>39112</postal_code>
+    </row>
+    <row>
+        <id>380</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Rembang</city_name>
+        <postal_code>59219</postal_code>
+    </row>
+    <row>
+        <id>381</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Rokan Hilir</city_name>
+        <postal_code>28992</postal_code>
+    </row>
+    <row>
+        <id>382</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Rokan Hulu</city_name>
+        <postal_code>28511</postal_code>
+    </row>
+    <row>
+        <id>383</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Rote Ndao</city_name>
+        <postal_code>85982</postal_code>
+    </row>
+    <row>
+        <id>384</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kota</type>
+        <city_name>Sabang</city_name>
+        <postal_code>23512</postal_code>
+    </row>
+    <row>
+        <id>385</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sabu Raijua</city_name>
+        <postal_code>85391</postal_code>
+    </row>
+    <row>
+        <id>386</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Salatiga</city_name>
+        <postal_code>50711</postal_code>
+    </row>
+    <row>
+        <id>387</id>
+        <province_id>15</province_id>
+        <province_name>Kalimantan Timur</province_name>
+        <type>Kota</type>
+        <city_name>Samarinda</city_name>
+        <postal_code>75133</postal_code>
+    </row>
+    <row>
+        <id>388</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sambas</city_name>
+        <postal_code>79453</postal_code>
+    </row>
+    <row>
+        <id>389</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Samosir</city_name>
+        <postal_code>22392</postal_code>
+    </row>
+    <row>
+        <id>390</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sampang</city_name>
+        <postal_code>69219</postal_code>
+    </row>
+    <row>
+        <id>391</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sanggau</city_name>
+        <postal_code>78557</postal_code>
+    </row>
+    <row>
+        <id>392</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sarmi</city_name>
+        <postal_code>99373</postal_code>
+    </row>
+    <row>
+        <id>393</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sarolangun</city_name>
+        <postal_code>37419</postal_code>
+    </row>
+    <row>
+        <id>394</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Sawah Lunto</city_name>
+        <postal_code>27416</postal_code>
+    </row>
+    <row>
+        <id>395</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sekadau</city_name>
+        <postal_code>79583</postal_code>
+    </row>
+    <row>
+        <id>396</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Selayar (Kepulauan Selayar)</city_name>
+        <postal_code>92812</postal_code>
+    </row>
+    <row>
+        <id>397</id>
+        <province_id>4</province_id>
+        <province_name>Bengkulu</province_name>
+        <type>Kabupaten</type>
+        <city_name>Seluma</city_name>
+        <postal_code>38811</postal_code>
+    </row>
+    <row>
+        <id>398</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Semarang</city_name>
+        <postal_code>50511</postal_code>
+    </row>
+    <row>
+        <id>399</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Semarang</city_name>
+        <postal_code>50135</postal_code>
+    </row>
+    <row>
+        <id>400</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Seram Bagian Barat</city_name>
+        <postal_code>97561</postal_code>
+    </row>
+    <row>
+        <id>401</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kabupaten</type>
+        <city_name>Seram Bagian Timur</city_name>
+        <postal_code>97581</postal_code>
+    </row>
+    <row>
+        <id>402</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kabupaten</type>
+        <city_name>Serang</city_name>
+        <postal_code>42182</postal_code>
+    </row>
+    <row>
+        <id>403</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kota</type>
+        <city_name>Serang</city_name>
+        <postal_code>42111</postal_code>
+    </row>
+    <row>
+        <id>404</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Serdang Bedagai</city_name>
+        <postal_code>20915</postal_code>
+    </row>
+    <row>
+        <id>405</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Seruyan</city_name>
+        <postal_code>74211</postal_code>
+    </row>
+    <row>
+        <id>406</id>
+        <province_id>26</province_id>
+        <province_name>Riau</province_name>
+        <type>Kabupaten</type>
+        <city_name>Siak</city_name>
+        <postal_code>28623</postal_code>
+    </row>
+    <row>
+        <id>407</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Sibolga</city_name>
+        <postal_code>22522</postal_code>
+    </row>
+    <row>
+        <id>408</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sidenreng Rappang/Rapang</city_name>
+        <postal_code>91613</postal_code>
+    </row>
+    <row>
+        <id>409</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sidoarjo</city_name>
+        <postal_code>61219</postal_code>
+    </row>
+    <row>
+        <id>410</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sigi</city_name>
+        <postal_code>94364</postal_code>
+    </row>
+    <row>
+        <id>411</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sijunjung (Sawah Lunto Sijunjung)</city_name>
+        <postal_code>27511</postal_code>
+    </row>
+    <row>
+        <id>412</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sikka</city_name>
+        <postal_code>86121</postal_code>
+    </row>
+    <row>
+        <id>413</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Simalungun</city_name>
+        <postal_code>21162</postal_code>
+    </row>
+    <row>
+        <id>414</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Simeulue</city_name>
+        <postal_code>23891</postal_code>
+    </row>
+    <row>
+        <id>415</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kota</type>
+        <city_name>Singkawang</city_name>
+        <postal_code>79117</postal_code>
+    </row>
+    <row>
+        <id>416</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sinjai</city_name>
+        <postal_code>92615</postal_code>
+    </row>
+    <row>
+        <id>417</id>
+        <province_id>12</province_id>
+        <province_name>Kalimantan Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sintang</city_name>
+        <postal_code>78619</postal_code>
+    </row>
+    <row>
+        <id>418</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Situbondo</city_name>
+        <postal_code>68316</postal_code>
+    </row>
+    <row>
+        <id>419</id>
+        <province_id>5</province_id>
+        <province_name>DI Yogyakarta</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sleman</city_name>
+        <postal_code>55513</postal_code>
+    </row>
+    <row>
+        <id>420</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Solok</city_name>
+        <postal_code>27365</postal_code>
+    </row>
+    <row>
+        <id>421</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kota</type>
+        <city_name>Solok</city_name>
+        <postal_code>27315</postal_code>
+    </row>
+    <row>
+        <id>422</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Solok Selatan</city_name>
+        <postal_code>27779</postal_code>
+    </row>
+    <row>
+        <id>423</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Soppeng</city_name>
+        <postal_code>90812</postal_code>
+    </row>
+    <row>
+        <id>424</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sorong</city_name>
+        <postal_code>98431</postal_code>
+    </row>
+    <row>
+        <id>425</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kota</type>
+        <city_name>Sorong</city_name>
+        <postal_code>98411</postal_code>
+    </row>
+    <row>
+        <id>426</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sorong Selatan</city_name>
+        <postal_code>98454</postal_code>
+    </row>
+    <row>
+        <id>427</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sragen</city_name>
+        <postal_code>57211</postal_code>
+    </row>
+    <row>
+        <id>428</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Subang</city_name>
+        <postal_code>41215</postal_code>
+    </row>
+    <row>
+        <id>429</id>
+        <province_id>21</province_id>
+        <province_name>Nanggroe Aceh Darussalam (NAD)</province_name>
+        <type>Kota</type>
+        <city_name>Subulussalam</city_name>
+        <postal_code>24882</postal_code>
+    </row>
+    <row>
+        <id>430</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sukabumi</city_name>
+        <postal_code>43311</postal_code>
+    </row>
+    <row>
+        <id>431</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Sukabumi</city_name>
+        <postal_code>43114</postal_code>
+    </row>
+    <row>
+        <id>432</id>
+        <province_id>14</province_id>
+        <province_name>Kalimantan Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sukamara</city_name>
+        <postal_code>74712</postal_code>
+    </row>
+    <row>
+        <id>433</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sukoharjo</city_name>
+        <postal_code>57514</postal_code>
+    </row>
+    <row>
+        <id>434</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumba Barat</city_name>
+        <postal_code>87219</postal_code>
+    </row>
+    <row>
+        <id>435</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumba Barat Daya</city_name>
+        <postal_code>87453</postal_code>
+    </row>
+    <row>
+        <id>436</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumba Tengah</city_name>
+        <postal_code>87358</postal_code>
+    </row>
+    <row>
+        <id>437</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumba Timur</city_name>
+        <postal_code>87112</postal_code>
+    </row>
+    <row>
+        <id>438</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumbawa</city_name>
+        <postal_code>84315</postal_code>
+    </row>
+    <row>
+        <id>439</id>
+        <province_id>22</province_id>
+        <province_name>Nusa Tenggara Barat (NTB)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumbawa Barat</city_name>
+        <postal_code>84419</postal_code>
+    </row>
+    <row>
+        <id>440</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumedang</city_name>
+        <postal_code>45326</postal_code>
+    </row>
+    <row>
+        <id>441</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Sumenep</city_name>
+        <postal_code>69413</postal_code>
+    </row>
+    <row>
+        <id>442</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kota</type>
+        <city_name>Sungaipenuh</city_name>
+        <postal_code>37113</postal_code>
+    </row>
+    <row>
+        <id>443</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Supiori</city_name>
+        <postal_code>98164</postal_code>
+    </row>
+    <row>
+        <id>444</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kota</type>
+        <city_name>Surabaya</city_name>
+        <postal_code>60119</postal_code>
+    </row>
+    <row>
+        <id>445</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Surakarta (Solo)</city_name>
+        <postal_code>57113</postal_code>
+    </row>
+    <row>
+        <id>446</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tabalong</city_name>
+        <postal_code>71513</postal_code>
+    </row>
+    <row>
+        <id>447</id>
+        <province_id>1</province_id>
+        <province_name>Bali</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tabanan</city_name>
+        <postal_code>82119</postal_code>
+    </row>
+    <row>
+        <id>448</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Takalar</city_name>
+        <postal_code>92212</postal_code>
+    </row>
+    <row>
+        <id>449</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tambrauw</city_name>
+        <postal_code>98475</postal_code>
+    </row>
+    <row>
+        <id>450</id>
+        <province_id>16</province_id>
+        <province_name>Kalimantan Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tana Tidung</city_name>
+        <postal_code>77611</postal_code>
+    </row>
+    <row>
+        <id>451</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tana Toraja</city_name>
+        <postal_code>91819</postal_code>
+    </row>
+    <row>
+        <id>452</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanah Bumbu</city_name>
+        <postal_code>72211</postal_code>
+    </row>
+    <row>
+        <id>453</id>
+        <province_id>32</province_id>
+        <province_name>Sumatera Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanah Datar</city_name>
+        <postal_code>27211</postal_code>
+    </row>
+    <row>
+        <id>454</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanah Laut</city_name>
+        <postal_code>70811</postal_code>
+    </row>
+    <row>
+        <id>455</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tangerang</city_name>
+        <postal_code>15914</postal_code>
+    </row>
+    <row>
+        <id>456</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kota</type>
+        <city_name>Tangerang</city_name>
+        <postal_code>15111</postal_code>
+    </row>
+    <row>
+        <id>457</id>
+        <province_id>3</province_id>
+        <province_name>Banten</province_name>
+        <type>Kota</type>
+        <city_name>Tangerang Selatan</city_name>
+        <postal_code>15332</postal_code>
+    </row>
+    <row>
+        <id>458</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanggamus</city_name>
+        <postal_code>35619</postal_code>
+    </row>
+    <row>
+        <id>459</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Tanjung Balai</city_name>
+        <postal_code>21321</postal_code>
+    </row>
+    <row>
+        <id>460</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanjung Jabung Barat</city_name>
+        <postal_code>36513</postal_code>
+    </row>
+    <row>
+        <id>461</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tanjung Jabung Timur</city_name>
+        <postal_code>36719</postal_code>
+    </row>
+    <row>
+        <id>462</id>
+        <province_id>17</province_id>
+        <province_name>Kepulauan Riau</province_name>
+        <type>Kota</type>
+        <city_name>Tanjung Pinang</city_name>
+        <postal_code>29111</postal_code>
+    </row>
+    <row>
+        <id>463</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tapanuli Selatan</city_name>
+        <postal_code>22742</postal_code>
+    </row>
+    <row>
+        <id>464</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tapanuli Tengah</city_name>
+        <postal_code>22611</postal_code>
+    </row>
+    <row>
+        <id>465</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tapanuli Utara</city_name>
+        <postal_code>22414</postal_code>
+    </row>
+    <row>
+        <id>466</id>
+        <province_id>13</province_id>
+        <province_name>Kalimantan Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tapin</city_name>
+        <postal_code>71119</postal_code>
+    </row>
+    <row>
+        <id>467</id>
+        <province_id>16</province_id>
+        <province_name>Kalimantan Utara</province_name>
+        <type>Kota</type>
+        <city_name>Tarakan</city_name>
+        <postal_code>77114</postal_code>
+    </row>
+    <row>
+        <id>468</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tasikmalaya</city_name>
+        <postal_code>46411</postal_code>
+    </row>
+    <row>
+        <id>469</id>
+        <province_id>9</province_id>
+        <province_name>Jawa Barat</province_name>
+        <type>Kota</type>
+        <city_name>Tasikmalaya</city_name>
+        <postal_code>46116</postal_code>
+    </row>
+    <row>
+        <id>470</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kota</type>
+        <city_name>Tebing Tinggi</city_name>
+        <postal_code>20632</postal_code>
+    </row>
+    <row>
+        <id>471</id>
+        <province_id>8</province_id>
+        <province_name>Jambi</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tebo</city_name>
+        <postal_code>37519</postal_code>
+    </row>
+    <row>
+        <id>472</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tegal</city_name>
+        <postal_code>52419</postal_code>
+    </row>
+    <row>
+        <id>473</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kota</type>
+        <city_name>Tegal</city_name>
+        <postal_code>52114</postal_code>
+    </row>
+    <row>
+        <id>474</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Teluk Bintuni</city_name>
+        <postal_code>98551</postal_code>
+    </row>
+    <row>
+        <id>475</id>
+        <province_id>25</province_id>
+        <province_name>Papua Barat</province_name>
+        <type>Kabupaten</type>
+        <city_name>Teluk Wondama</city_name>
+        <postal_code>98591</postal_code>
+    </row>
+    <row>
+        <id>476</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Temanggung</city_name>
+        <postal_code>56212</postal_code>
+    </row>
+    <row>
+        <id>477</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kota</type>
+        <city_name>Ternate</city_name>
+        <postal_code>97714</postal_code>
+    </row>
+    <row>
+        <id>478</id>
+        <province_id>20</province_id>
+        <province_name>Maluku Utara</province_name>
+        <type>Kota</type>
+        <city_name>Tidore Kepulauan</city_name>
+        <postal_code>97815</postal_code>
+    </row>
+    <row>
+        <id>479</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Timor Tengah Selatan</city_name>
+        <postal_code>85562</postal_code>
+    </row>
+    <row>
+        <id>480</id>
+        <province_id>23</province_id>
+        <province_name>Nusa Tenggara Timur (NTT)</province_name>
+        <type>Kabupaten</type>
+        <city_name>Timor Tengah Utara</city_name>
+        <postal_code>85612</postal_code>
+    </row>
+    <row>
+        <id>481</id>
+        <province_id>34</province_id>
+        <province_name>Sumatera Utara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Toba Samosir</city_name>
+        <postal_code>22316</postal_code>
+    </row>
+    <row>
+        <id>482</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tojo Una-Una</city_name>
+        <postal_code>94683</postal_code>
+    </row>
+    <row>
+        <id>483</id>
+        <province_id>29</province_id>
+        <province_name>Sulawesi Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Toli-Toli</city_name>
+        <postal_code>94542</postal_code>
+    </row>
+    <row>
+        <id>484</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tolikara</city_name>
+        <postal_code>99411</postal_code>
+    </row>
+    <row>
+        <id>485</id>
+        <province_id>31</province_id>
+        <province_name>Sulawesi Utara</province_name>
+        <type>Kota</type>
+        <city_name>Tomohon</city_name>
+        <postal_code>95416</postal_code>
+    </row>
+    <row>
+        <id>486</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Toraja Utara</city_name>
+        <postal_code>91831</postal_code>
+    </row>
+    <row>
+        <id>487</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Trenggalek</city_name>
+        <postal_code>66312</postal_code>
+    </row>
+    <row>
+        <id>488</id>
+        <province_id>19</province_id>
+        <province_name>Maluku</province_name>
+        <type>Kota</type>
+        <city_name>Tual</city_name>
+        <postal_code>97612</postal_code>
+    </row>
+    <row>
+        <id>489</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tuban</city_name>
+        <postal_code>62319</postal_code>
+    </row>
+    <row>
+        <id>490</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tulang Bawang</city_name>
+        <postal_code>34613</postal_code>
+    </row>
+    <row>
+        <id>491</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tulang Bawang Barat</city_name>
+        <postal_code>34419</postal_code>
+    </row>
+    <row>
+        <id>492</id>
+        <province_id>11</province_id>
+        <province_name>Jawa Timur</province_name>
+        <type>Kabupaten</type>
+        <city_name>Tulungagung</city_name>
+        <postal_code>66212</postal_code>
+    </row>
+    <row>
+        <id>493</id>
+        <province_id>28</province_id>
+        <province_name>Sulawesi Selatan</province_name>
+        <type>Kabupaten</type>
+        <city_name>Wajo</city_name>
+        <postal_code>90911</postal_code>
+    </row>
+    <row>
+        <id>494</id>
+        <province_id>30</province_id>
+        <province_name>Sulawesi Tenggara</province_name>
+        <type>Kabupaten</type>
+        <city_name>Wakatobi</city_name>
+        <postal_code>93791</postal_code>
+    </row>
+    <row>
+        <id>495</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Waropen</city_name>
+        <postal_code>98269</postal_code>
+    </row>
+    <row>
+        <id>496</id>
+        <province_id>18</province_id>
+        <province_name>Lampung</province_name>
+        <type>Kabupaten</type>
+        <city_name>Way Kanan</city_name>
+        <postal_code>34711</postal_code>
+    </row>
+    <row>
+        <id>497</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Wonogiri</city_name>
+        <postal_code>57619</postal_code>
+    </row>
+    <row>
+        <id>498</id>
+        <province_id>10</province_id>
+        <province_name>Jawa Tengah</province_name>
+        <type>Kabupaten</type>
+        <city_name>Wonosobo</city_name>
+        <postal_code>56311</postal_code>
+    </row>
+    <row>
+        <id>499</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Yahukimo</city_name>
+        <postal_code>99041</postal_code>
+    </row>
+    <row>
+        <id>500</id>
+        <province_id>24</province_id>
+        <province_name>Papua</province_name>
+        <type>Kabupaten</type>
+        <city_name>Yalimo</city_name>
+        <postal_code>99481</postal_code>
+    </row>
+    <row>
+        <id>501</id>
+        <province_id>5</province_id>
+        <province_name>DI Yogyakarta</province_name>
+        <type>Kota</type>
+        <city_name>Yogyakarta</city_name>
+        <postal_code>55111</postal_code>
+    </row>
+</root>

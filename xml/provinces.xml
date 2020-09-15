@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>
+        <id>1</id>
+        <name>Bali</name>
+    </row>
+    <row>
+        <id>2</id>
+        <name>Bangka Belitung</name>
+    </row>
+    <row>
+        <id>3</id>
+        <name>Banten</name>
+    </row>
+    <row>
+        <id>4</id>
+        <name>Bengkulu</name>
+    </row>
+    <row>
+        <id>5</id>
+        <name>DI Yogyakarta</name>
+    </row>
+    <row>
+        <id>6</id>
+        <name>DKI Jakarta</name>
+    </row>
+    <row>
+        <id>7</id>
+        <name>Gorontalo</name>
+    </row>
+    <row>
+        <id>8</id>
+        <name>Jambi</name>
+    </row>
+    <row>
+        <id>9</id>
+        <name>Jawa Barat</name>
+    </row>
+    <row>
+        <id>10</id>
+        <name>Jawa Tengah</name>
+    </row>
+    <row>
+        <id>11</id>
+        <name>Jawa Timur</name>
+    </row>
+    <row>
+        <id>12</id>
+        <name>Kalimantan Barat</name>
+    </row>
+    <row>
+        <id>13</id>
+        <name>Kalimantan Selatan</name>
+    </row>
+    <row>
+        <id>14</id>
+        <name>Kalimantan Tengah</name>
+    </row>
+    <row>
+        <id>15</id>
+        <name>Kalimantan Timur</name>
+    </row>
+    <row>
+        <id>16</id>
+        <name>Kalimantan Utara</name>
+    </row>
+    <row>
+        <id>17</id>
+        <name>Kepulauan Riau</name>
+    </row>
+    <row>
+        <id>18</id>
+        <name>Lampung</name>
+    </row>
+    <row>
+        <id>19</id>
+        <name>Maluku</name>
+    </row>
+    <row>
+        <id>20</id>
+        <name>Maluku Utara</name>
+    </row>
+    <row>
+        <id>21</id>
+        <name>Nanggroe Aceh Darussalam (NAD)</name>
+    </row>
+    <row>
+        <id>22</id>
+        <name>Nusa Tenggara Barat (NTB)</name>
+    </row>
+    <row>
+        <id>23</id>
+        <name>Nusa Tenggara Timur (NTT)</name>
+    </row>
+    <row>
+        <id>24</id>
+        <name>Papua</name>
+    </row>
+    <row>
+        <id>25</id>
+        <name>Papua Barat</name>
+    </row>
+    <row>
+        <id>26</id>
+        <name>Riau</name>
+    </row>
+    <row>
+        <id>27</id>
+        <name>Sulawesi Barat</name>
+    </row>
+    <row>
+        <id>28</id>
+        <name>Sulawesi Selatan</name>
+    </row>
+    <row>
+        <id>29</id>
+        <name>Sulawesi Tengah</name>
+    </row>
+    <row>
+        <id>30</id>
+        <name>Sulawesi Tenggara</name>
+    </row>
+    <row>
+        <id>31</id>
+        <name>Sulawesi Utara</name>
+    </row>
+    <row>
+        <id>32</id>
+        <name>Sumatera Barat</name>
+    </row>
+    <row>
+        <id>33</id>
+        <name>Sumatera Selatan</name>
+    </row>
+    <row>
+        <id>34</id>
+        <name>Sumatera Utara</name>
+    </row>
+</root>

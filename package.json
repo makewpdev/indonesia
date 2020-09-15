@@ -1,6 +1,6 @@
 {
   "name": "@makewpdev/indonesia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data Provinsi, Kota/kabupaten, dan Kecamatan seluruh indonesia",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
 
