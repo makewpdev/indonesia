@@ -2,7 +2,6 @@
 
 Berisikan Data informasi Provinsi, Kabupaten atau Kota, dan Juga Kecamatan dari seluruh Indonesia.
 
-Data diambil dari rajaongkir.com
 1. Provinsi
 2. Kabupaten/Kota
 3. Kecamatan
@@ -55,3 +54,4 @@ File [kecamatan.json](json/kecamatan.json)
   .....
 ]
 ```
+Data diambil dari rajaongkir.com
