@@ -54,4 +54,16 @@ File [kecamatan.json](json/kecamatan.json)
   .....
 ]
 ```
+
+Install from the command line
+```
+npm install @makewpdev/indonesia@1.0.0
+```
+Install via package.json
+```
+"@makewpdev/indonesia": "1.0.0"
+```
+
+
+
 Data diambil dari rajaongkir.com
